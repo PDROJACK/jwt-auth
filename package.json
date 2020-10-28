@@ -1,0 +1,24 @@
+{
+  "name": "jwt-auth",
+  "version": "1.0.0",
+  "description": "A JSON Web Token Implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PDROJACK/jwt-auth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PDROJACK/jwt-auth/issues"
+  },
+  "homepage": "https://github.com/PDROJACK/jwt-auth#readme",
+  "dependencies": {
+    "jws": "^4.0.0",
+    "lodash": "^4.17.20",
+    "ms": "^2.1.2"
+  }
+}
